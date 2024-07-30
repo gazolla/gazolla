@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gazolla
-- 👀 I’m interested in new techonologies, programming, bodybuilding
+- 👀 I’m interested in new techonologies, AI,  programming, bodybuilding
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on swift projects
+- 💞️ I’m looking to collaborate on swift and java projects
 - 📫 How to reach me gazollajunior@outlook.com
 
 <!---
